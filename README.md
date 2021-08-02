@@ -33,4 +33,12 @@
 ## ⚡ GitHub Status
 
 <!--![Github Stats](https://github-readme-stats.vercel.app/api?username=joaoalvesjf&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalvesjf&hide=TeX&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalvesjf&hide=TeX&layout=compact) -->
+
+ <div>
+  <a href="https://github.com/joaoalvesjf">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoalvesjf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalvesjf&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<!--   ![Snake animation](https://github.com/rafaballerini/joaoalvesjf/blob/output/github-contribution-grid-snake.svg) -->
+  
