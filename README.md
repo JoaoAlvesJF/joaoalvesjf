@@ -5,7 +5,7 @@
 - Formado em Sistemas de Informação
 <br><br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-joaoAlves-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)](https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)
+[![Linkedin Badge](https://img.shields.io/badge/-joaoAlves-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaofernandojfal/)](https://www.linkedin.com/in/joaofernandojfal/)
 
 
 ## 💻 Tecnologias & Ferramentas
